@@ -1,9 +1,9 @@
+package Projectk;
 
 public class sample {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-    System.out.println("I,m TEAM-LEAD");
+		  System.out.println("I,m TEAM-LEAD");
 	}
 
 }
